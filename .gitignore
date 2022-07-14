@@ -15,3 +15,8 @@
 .idea/workspace.xml
 /test/micro_ed/check_message_ordering.py
 .vscode/settings.json
+pyTEM/lib/interface/mixins/__pycache__/
+pyTEM/__pycache__/
+pyTEM/lib/__pycache__/
+pyTEM/lib/interface/__pycache__/
+pyTEM/lib/interface/stock_mrc_extended_header/__pycache__/
